@@ -1,0 +1,14 @@
+ContextMenu_DE = {	
+	ContextMenu_Kamer_RepairWall_Repair = "Reparatur",
+	ContextMenu_Kamer_RepairWall_RepairOption = "Reparatur %1",
+
+	ContextMenu_Kamer_RepairWall_ToolTip1 = "%2Eventuell reparaturen: %1% <LINE> <LINE> <RGB:1,1,1>Anforderungen:",
+
+	ContextMenu_Kamer_RepairWall_Hammer = "Hammer",
+    ContextMenu_Kamer_RepairWall_Nails = "Nägel",
+	ContextMenu_Kamer_RepairWall_Plank = "Brett",
+
+	ContextMenu_Kamer_RepairWall_WeldingMask = "Schweißmaske",
+	ContextMenu_Kamer_RepairWall_BlowTorch = "Lütkolben",
+	ContextMenu_Kamer_RepairWall_MetalPipe = "Metallrohr",
+}
