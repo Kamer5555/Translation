@@ -3,12 +3,4 @@ ContextMenu_CN = {
 	ContextMenu_Kamer_RepairWall_RepairOption = "修理 %1",
 
 	ContextMenu_Kamer_RepairWall_ToolTip1 = "%2预计修理: %1% <LINE> <LINE> <RGB:1,1,1>材料需求:",
-
-	ContextMenu_Kamer_RepairWall_Hammer = "圆头锤",
-    ContextMenu_Kamer_RepairWall_Nails = "钉子",
-	ContextMenu_Kamer_RepairWall_Plank = "木板",
-
-	ContextMenu_Kamer_RepairWall_WeldingMask = "焊工面罩",
-	ContextMenu_Kamer_RepairWall_BlowTorch = "丙烷喷灯",
-	ContextMenu_Kamer_RepairWall_MetalPipe = "金属管",
 }

@@ -1,4 +1,4 @@
-ContextMenu_ES = {	
+ContextMenu_AR = {	
 	ContextMenu_Kamer_RepairWall_Repair = "Reparar",
 	ContextMenu_Kamer_RepairWall_RepairOption = "Reparar %1",
 

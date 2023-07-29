@@ -3,12 +3,4 @@ ContextMenu_EN = {
 	ContextMenu_Kamer_RepairWall_RepairOption = "Repair %1",
 
 	ContextMenu_Kamer_RepairWall_ToolTip1 = "%2Potentially repairs: %1% <LINE> <LINE> <RGB:1,1,1>Needs:",
-
-	ContextMenu_Kamer_RepairWall_Hammer = "Hammer",
-    ContextMenu_Kamer_RepairWall_Nails = "Nails",
-	ContextMenu_Kamer_RepairWall_Plank = "Plank",
-
-	ContextMenu_Kamer_RepairWall_WeldingMask = "Welding Mask",
-	ContextMenu_Kamer_RepairWall_BlowTorch = "Propane Torch",
-	ContextMenu_Kamer_RepairWall_MetalPipe = "Metal Pipe",
 }

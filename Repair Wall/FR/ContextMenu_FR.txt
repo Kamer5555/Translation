@@ -1,14 +1,6 @@
 ContextMenu_FR = {	
-	ContextMenu_Kamer_RepairWall_Repair = "R√©paration",
-	ContextMenu_Kamer_RepairWall_RepairOption = "R√©paration %1",
+	ContextMenu_Kamer_RepairWall_Repair = "RÈparation",
+	ContextMenu_Kamer_RepairWall_RepairOption = "RÈparation %1",
 
-	ContextMenu_Kamer_RepairWall_ToolTip1 = "%2R√©parations potentielles: %1% <LINE> <LINE> <RGB:1,1,1>besoins:",
-
-	ContextMenu_Kamer_RepairWall_Hammer = "Marteau",
-    ContextMenu_Kamer_RepairWall_Nails = "Clous",
-	ContextMenu_Kamer_RepairWall_Plank = "Planche",
-
-	ContextMenu_Kamer_RepairWall_WeldingMask = "Masque de soudure",
-	ContextMenu_Kamer_RepairWall_BlowTorch = "Chalumeau",
-	ContextMenu_Kamer_RepairWall_MetalPipe = "Tuyau en m√©tal",
+	ContextMenu_Kamer_RepairWall_ToolTip1 = "%2RÈparations potentielles: %1% <LINE> <LINE> <RGB:1,1,1>Besoins:",
 }
